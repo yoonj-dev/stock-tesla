@@ -1,5 +1,6 @@
 name = "stock-tesla"
 compatibility_date = "2024-09-23"
+routes = [{ pattern = "tsla.on-tap.xyz", custom_domain = true }]
 
 [assets]
 directory = "./dist"
