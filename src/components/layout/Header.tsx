@@ -74,7 +74,20 @@ export const Header: React.FC<HeaderProps> = ({
         </div>
 
         {/* Right: Controls & Context Menu */}
-        <div className="flex items-center gap-1.5">
+        <div className="flex items-center gap-1.5 sm:gap-2">
+          {/* Stock on Tap Direct Header Link */}
+          <a
+            href="https://stock.on-tap.xyz/?symbol=TSLA"
+            target="_blank"
+            rel="noopener noreferrer"
+            title="Stock on Tap 전체 주식 퀀트 플랫폼으로 이동"
+            className="flex items-center gap-1.5 px-2.5 sm:px-3 py-1.5 rounded-xl border border-rose-200/80 dark:border-rose-900/40 bg-rose-50/70 hover:bg-rose-100/80 dark:bg-rose-950/30 dark:hover:bg-rose-900/50 text-rose-700 dark:text-rose-300 text-xs font-bold transition-all shrink-0 shadow-2xs"
+          >
+            <TrendingUp className="w-3.5 h-3.5 text-rose-600 dark:text-rose-400 shrink-0" />
+            <span className="text-[11.5px] sm:text-xs font-bold whitespace-nowrap">Stock on Tap</span>
+            <ExternalLink className="w-3 h-3 opacity-60 hidden sm:inline shrink-0" />
+          </a>
+
           <button
             onClick={onRefresh}
             disabled={isRefreshing}
@@ -132,6 +145,29 @@ export const Header: React.FC<HeaderProps> = ({
                   </div>
 
                   <div className="pt-1 border-t border-slate-100 dark:border-zinc-800 space-y-1">
+                    <a
+                      href="https://stock.on-tap.xyz/?symbol=TSLA"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="flex items-center justify-between px-2.5 py-1.5 rounded-lg hover:bg-slate-100 dark:hover:bg-zinc-800 text-slate-700 dark:text-zinc-300 font-semibold"
+                    >
+                      <span className="flex items-center gap-1.5">
+                        <TrendingUp className="w-3.5 h-3.5 text-rose-500" />
+                        <span>📈 Stock on Tap (미국주식)</span>
+                      </span>
+                      <ExternalLink className="w-3 h-3 text-slate-400" />
+                    </a>
+
+                    <a
+                      href="https://dev.on-tap.xyz"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="flex items-center justify-between px-2.5 py-1.5 rounded-lg hover:bg-slate-100 dark:hover:bg-zinc-800 text-slate-700 dark:text-zinc-300 font-semibold"
+                    >
+                      <span>🚀 개발자 페이지 (On Tap)</span>
+                      <ExternalLink className="w-3 h-3 text-slate-400" />
+                    </a>
+
                     <button
                       onClick={() => {
                         setMenuOpen(false);
