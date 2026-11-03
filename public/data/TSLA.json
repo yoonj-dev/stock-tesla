@@ -1,0 +1,466 @@
+{
+  "ticker": "TSLA",
+  "name": "Tesla, Inc.",
+  "asOf": "2026-11-04 02:07:38 KST",
+  "quote": {
+    "price": 397.93,
+    "change": -5.89,
+    "changePercent": -1.46,
+    "prevClose": 403.82,
+    "volume": 12241818,
+    "marketCap": 1572909875200,
+    "marketCapBillions": 1572.91,
+    "high52w": 498.83,
+    "low52w": 297.38,
+    "drawdown52w": -20.23
+  },
+  "technicals": {
+    "rsi14": 63.85,
+    "mfi14": 54.91,
+    "sma20": 382.82,
+    "sma50": 371.4,
+    "sma200": 384.93,
+    "trend": "Bullish"
+  },
+  "valuation": {
+    "trailingPE": 437.29,
+    "forwardPE": 184.29,
+    "priceToSales": 15.19,
+    "priceToBook": 17.62,
+    "evToEbitda": 159.36,
+    "targetMeanPrice": 413.1,
+    "upsidePotential": 3.8
+  },
+  "earnings": {
+    "hasData": true,
+    "quarter": "2026 Q3",
+    "reportDate": "2026-09-30",
+    "revenue": 28.05,
+    "revenueYoY": -0.2,
+    "revenueEstimate": null,
+    "revenueBeat": null,
+    "eps": 0.48,
+    "epsEstimate": 0.45,
+    "epsSurprisePercent": 6.4,
+    "epsBeat": true,
+    "daysSinceReport": 35,
+    "isBreaking": false,
+    "nextEarningsDate": "2027-01-28",
+    "nextEpsEstimate": 0.5,
+    "revenueGrowthYoY": -0.2,
+    "earningsGrowthYoY": -43.6,
+    "operatingMargins": 5.4,
+    "totalRevenueTTM": 103.6,
+    "keyTakeaway": "2026 Q3 공식 실적 기준 분기 매출 $28.05B(+-0.2%), EPS $0.48 (예상 상회(Beat)). 차기 실적 발표: 2027-01-28"
+  },
+  "catalysts": [
+    {
+      "category": "AI & Infrastructure",
+      "impact": "High",
+      "summary": "AI 및 첨단 테크 인프라 수요 가속에 따른 강력한 시장 모멘텀 감지"
+    },
+    {
+      "category": "Upcoming Earnings",
+      "impact": "Medium",
+      "summary": "차기 실적 발표 (2027-01-28) 예정"
+    }
+  ],
+  "news": [
+    {
+      "title": "Tesla Inc Stock (TSLA) Moved Up by 3.31% on Nov 2: Drivers Behind the Movement",
+      "source": "TradingKey",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZU5hR01Zdm1GMTlQNnlsZGFUQXpkbG1mQUc0U2hUbzlNY3oxUkVhblF5NlpQZDRGUlc0RzJRMnhmT0p4T1VNRzNrM2RVcXhlMzMwUlU2M3pDNVlqT3dKX3g4aml2WXAzYmxzU2FTWTVnRzZ4YWl1WDFmZ25oWTk5ZHlhRWVTU200MmJN?oc=5",
+      "pubDate": "Mon, 02 Nov 2026 16:15:32 GMT"
+    },
+    {
+      "title": "Tesla Stock Moves Higher: What's Going On? - Tesla (NASDAQ:TSLA)",
+      "source": "Benzinga",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQOXpzVENuQkVTR0RRNFNpdHJsX1FUWTZ6em04R3JwT0xaQ1kzV3V4QUp0QUVqb3M1cDlQZFYyemRORi1NVTl1WHd0U0tFUWFrRkxEdDQ1aVNBdjh0OUdsRG5va240TUtmdDRLb3NpMDJYdHlWQzZPRGE4Y1loeXpxdUFiZlljajl5dmpCeDBsRnd2SnJaNEVEUDJmSllNX0dVeGc?oc=5",
+      "pubDate": "Mon, 02 Nov 2026 19:11:56 GMT"
+    },
+    {
+      "title": "Tesla, Inc. $TSLA Stock Sold by Legacy Wealth Management LLC MS",
+      "source": "MarketBeat",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQnZQVHpJTVhaU2JEZ3dGSk5vY3Vzb2dUeUpOVUsySmFJS2U4ejFJMmFUQUlXdnh3V0hSYjU4WGp1WlZxWDJpYnJUSm1KcUJLUGFDWE91MnA5aDlBQlZ3eUFGZUJGNkJNNXl6X05kM09lQXFsUEFyVTAyVHBJdmFMcHMwRnBDa3M5aWRTSm14WllYUEZVM0IzZnhnamM5ZUxzS1R4QjdDbTZaQXJETFQ3N19FendqejV2SEc4MVNR?oc=5",
+      "pubDate": "Tue, 03 Nov 2026 11:31:50 GMT"
+    },
+    {
+      "title": "Tesla (TSLA) Laps the Stock Market: Here's Why",
+      "source": "Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZV9NN3F2djY2N3dVclhTNUVJYTYtYmYtWVdiTG9WSG5FaVh0UkhnZmpNcTdwdXJHWjU3MkFZSlh6bm9kTWNsQ1lUX25MNDZRVzh6dzFURTNMYkkzSC1iY0huSXZPbGtVZjRiamtHTWNYY2J2X2xqZm1kdHdwWmx4QlVMRzA0WFBmTHQxNi1Ta1laOWlwQ0xxdg?oc=5",
+      "pubDate": "Mon, 05 Oct 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Tesla: SpaceX, Robots, And A Valuation That Defies Gravity",
+      "source": "Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNGtLdXcxSXV2SERIdWdnYnNGeXJVYWN6Z0RXVjJhdmk5LXZHX1VBY2RlaDJpNG9ieHRlbE50TWg3WlNzMmg4YV9tQ3huaUR1TUFLa3lqQkNpNUdFSjNhcjVtazVaYzYzT1hJSzRLcl9rSENFbVZhNW5CVEMxeURZUmQ0ZDF6OFg3QUxhZDJ2by1mUFE2b3BmMzZCeV8?oc=5",
+      "pubDate": "Wed, 21 Oct 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Tesla, Inc. Stock 12‑Month Price Target Raised to $389.4, Implies 4% Upside",
+      "source": "TradingView",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOV0p6eDRwTFgzbjBhZ241cHRSVWZFRk1WOEFaVEtoT09na3RPbEJsaXdoYldUMGhSR2M5Z0YzRmlBUDlEaG9oajk0bGRnQV90U2NFSlozRzdRd3YxOWh5MU52RFpMUUdjX1djQmxVT1RoLXEtV01FRU9mM1JLcnJWc3Z1LTFidHB5Ukt4a3U5S3ZuQ01KcTI1Nzk0UFE2WmlVZHNVeWlNdUljMV9IYXJfQXNkUWt1V0F6T1VUcjdtb3BFTlJ3T1lnb1YzbV8?oc=5",
+      "pubDate": "Tue, 20 Oct 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Tesla beats on earnings and sales even as auto revenue declines",
+      "source": "CNBC",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1rRTRZdEQyQ0tYemI0R0tuYi04TWhxWEVoRGx6M3h3MWpWTzhRdnpvZTk4R2tSV09GX2dNS0p6ckxOMkpDd3NCbEViY1ZtOUNOU0JjejU5VjhoVTRIRjZ2SHBiOG0wbXY0NmVBUmFUTDFWZ01LSmZraHN4TdIBgAFBVV95cUxPdzZSSklMOG1fb1hCcUpGSmpyVDAxVlZuXzZ4ZDEwdkJhX2xoWXdVb1V5Vkp0b0tkekhaVHhoa2szSC0tejZ6aTYtb1JJUWo4aG90ZTN5UURiS19sMGhCUHFxZUdhdk9rd3JaN0xRVVk3OGZ0VkhZSjFDMU11dUJIVw?oc=5",
+      "pubDate": "Wed, 21 Oct 2026 07:00:00 GMT"
+    },
+    {
+      "title": "We Raised Our Fair Value Estimates for Tesla and SpaceX. Are They Buys?",
+      "source": "Morningstar",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTTBUSXhoVm5xdHVYY3QwQjJxdmswcU9wWDRlTjZHeUcxWFFWRVFJczBXYW42X1dOQWREMTczOVc5VENYNTl3SUhHQzBpUkMyU0FWMTFmS0ZVTlp5YmFmd25lVkNnY2JyTmo3cUNlekhuZkhlbHUyLVkzN1h1T0o5Sk5oRDNpX0dGMDJfdTQyYTR5TkZ3MjF3MXBDWUdtb29OSVhLbktzZmc?oc=5",
+      "pubDate": "Mon, 02 Nov 2026 10:06:45 GMT"
+    },
+    {
+      "title": "SpaceX Vs. Tesla: Both Troubled, But SpaceX Faces The Tougher Q4",
+      "source": "24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbU9ka0NBX0RRWW9rdEZpOGdpYXc3MTdGMjduQlNXdUFiTlJSeXI2cVJscmYzQUFlY1pUNUpteVQ1Zk4tUi1ZWmt0X0tCTTBEdlRHaGdkUlBGb3hIY2h0VUxsMloxaUxHQTVjY2l0QWxwMXJZWENBUkgxYnZKZEdaZTk2OHNsemRISzZHMGhia09paDI0MTQ3bkgxenVTcUhXY2dpX2JRSFM?oc=5",
+      "pubDate": "Tue, 03 Nov 2026 13:45:00 GMT"
+    },
+    {
+      "title": "In A Bad Week For The AI Trade, This One Mag Seven Stock Holds Strong",
+      "source": "Investor's Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRGNMQnRIbVBqOTB3OTZRR2xFd1J1U0sxRGxhRWFDanNvelJCaEpwQzFQb1BVX0NaSE9pRHlJandLd2lkR0EtQ3ZhMzhObVlqbUEyLTBtNVlPYktzcTdCdGZueUYxMkxzbGgzVXJ5MExTUXFORjQ2aDBYcjVMQTgzQW5PbndiQWJLeDVwdVRkMENROWN5WVF3WU5BVzQ1UlVnYVFYNGhOLVpzQTAzY1J4dlJTOGw0UE8yX1NFeQ?oc=5",
+      "pubDate": "Fri, 30 Oct 2026 21:04:00 GMT"
+    }
+  ],
+  "candles": [
+    {
+      "time": "2026-09-23",
+      "open": 380.1,
+      "high": 386.7,
+      "low": 377.58,
+      "close": 380.12,
+      "volume": 33522500
+    },
+    {
+      "time": "2026-09-24",
+      "open": 377.35,
+      "high": 383.33,
+      "low": 375.7,
+      "close": 377.94,
+      "volume": 26165700
+    },
+    {
+      "time": "2026-09-25",
+      "open": 384.62,
+      "high": 386.83,
+      "low": 367.67,
+      "close": 372.11,
+      "volume": 45999500
+    },
+    {
+      "time": "2026-09-28",
+      "open": 368.06,
+      "high": 369.43,
+      "low": 356.8,
+      "close": 357.45,
+      "volume": 39452900
+    },
+    {
+      "time": "2026-09-29",
+      "open": 358.4,
+      "high": 358.74,
+      "low": 351.67,
+      "close": 352.84,
+      "volume": 32492400
+    },
+    {
+      "time": "2026-09-30",
+      "open": 352.11,
+      "high": 355.22,
+      "low": 345.88,
+      "close": 354.81,
+      "volume": 39235800
+    },
+    {
+      "time": "2026-10-01",
+      "open": 356.81,
+      "high": 359.79,
+      "low": 353.8,
+      "close": 354.11,
+      "volume": 31080800
+    },
+    {
+      "time": "2026-10-02",
+      "open": 360.08,
+      "high": 374.6,
+      "low": 359.41,
+      "close": 370.59,
+      "volume": 55330100
+    },
+    {
+      "time": "2026-10-05",
+      "open": 369.0,
+      "high": 381.59,
+      "low": 364.91,
+      "close": 378.73,
+      "volume": 42232700
+    },
+    {
+      "time": "2026-10-06",
+      "open": 381.98,
+      "high": 383.33,
+      "low": 378.52,
+      "close": 380.68,
+      "volume": 27735400
+    },
+    {
+      "time": "2026-10-07",
+      "open": 378.45,
+      "high": 382.35,
+      "low": 374.43,
+      "close": 377.81,
+      "volume": 25594600
+    },
+    {
+      "time": "2026-10-08",
+      "open": 374.12,
+      "high": 375.96,
+      "low": 368.03,
+      "close": 375.0,
+      "volume": 28394900
+    },
+    {
+      "time": "2026-10-09",
+      "open": 382.38,
+      "high": 388.56,
+      "low": 379.71,
+      "close": 382.7,
+      "volume": 38952400
+    },
+    {
+      "time": "2026-10-12",
+      "open": 382.61,
+      "high": 382.7,
+      "low": 377.58,
+      "close": 378.03,
+      "volume": 20244300
+    },
+    {
+      "time": "2026-10-13",
+      "open": 372.33,
+      "high": 377.05,
+      "low": 371.3,
+      "close": 375.23,
+      "volume": 18393000
+    },
+    {
+      "time": "2026-10-14",
+      "open": 371.16,
+      "high": 371.39,
+      "low": 363.82,
+      "close": 367.16,
+      "volume": 31001400
+    },
+    {
+      "time": "2026-10-15",
+      "open": 360.57,
+      "high": 363.75,
+      "low": 355.23,
+      "close": 362.44,
+      "volume": 26728300
+    },
+    {
+      "time": "2026-10-16",
+      "open": 369.15,
+      "high": 370.5,
+      "low": 349.33,
+      "close": 354.72,
+      "volume": 62067300
+    },
+    {
+      "time": "2026-10-19",
+      "open": 357.5,
+      "high": 369.58,
+      "low": 354.47,
+      "close": 368.06,
+      "volume": 38817900
+    },
+    {
+      "time": "2026-10-20",
+      "open": 370.28,
+      "high": 377.59,
+      "low": 363.64,
+      "close": 373.71,
+      "volume": 32123300
+    },
+    {
+      "time": "2026-10-21",
+      "open": 381.43,
+      "high": 388.84,
+      "low": 380.51,
+      "close": 386.47,
+      "volume": 48875800
+    },
+    {
+      "time": "2026-10-22",
+      "open": 374.29,
+      "high": 388.86,
+      "low": 373.71,
+      "close": 374.58,
+      "volume": 51610900
+    },
+    {
+      "time": "2026-10-23",
+      "open": 373.2,
+      "high": 377.32,
+      "low": 365.27,
+      "close": 372.22,
+      "volume": 34763000
+    },
+    {
+      "time": "2026-10-26",
+      "open": 383.83,
+      "high": 397.27,
+      "low": 383.73,
+      "close": 391.62,
+      "volume": 53090200
+    },
+    {
+      "time": "2026-10-27",
+      "open": 397.76,
+      "high": 408.45,
+      "low": 395.25,
+      "close": 407.46,
+      "volume": 45333200
+    },
+    {
+      "time": "2026-10-28",
+      "open": 410.16,
+      "high": 410.85,
+      "low": 397.18,
+      "close": 404.22,
+      "volume": 35598800
+    },
+    {
+      "time": "2026-10-29",
+      "open": 405.63,
+      "high": 406.98,
+      "low": 400.5,
+      "close": 403.3,
+      "volume": 22858300
+    },
+    {
+      "time": "2026-10-30",
+      "open": 393.22,
+      "high": 404.22,
+      "low": 387.52,
+      "close": 399.81,
+      "volume": 41737200
+    },
+    {
+      "time": "2026-11-02",
+      "open": 404.66,
+      "high": 414.23,
+      "low": 397.61,
+      "close": 403.82,
+      "volume": 43028200
+    },
+    {
+      "time": "2026-11-03",
+      "open": 406.31,
+      "high": 406.49,
+      "low": 397.78,
+      "close": 397.96,
+      "volume": 12242774
+    }
+  ],
+  "synthesis": {
+    "metadata": {
+      "symbol": "TSLA",
+      "company_name": "Tesla, Inc.",
+      "engine": "deterministic_quant_desk",
+      "last_updated": "2026-11-04T02:08:28.130482+09:00",
+      "last_updated_ny": "2026-11-03T12:08:28.130531-05:00",
+      "stock_price_ref": 397.93,
+      "target_mean": 413.1,
+      "target_high": 516.38,
+      "target_low": 351.13,
+      "forward_pe": 184.29,
+      "trailing_pe": 437.29,
+      "latest_quarter": "2026 Q3",
+      "next_earnings_date": "2027-01-28",
+      "volatility_alert": {
+        "triggered": true,
+        "category": "EARNINGS_RELEASE",
+        "categoryLabel": "공식 실적 발표 및 어닝 서프라이즈",
+        "severity": "MEDIUM",
+        "direction": "PLUNGE",
+        "changePercent": -1.46,
+        "changeAmount": -5.89,
+        "sessionPrice": 397.93,
+        "threshold": 2.8,
+        "headline": "⚡ Tesla, Inc. (TSLA) 일간 변동성(-1.46%) 및 공식 실적 발표 및 어닝 서프라이즈 감지",
+        "primaryReason": "2026 Q3 분기 실적 발표 및 테크 섹터 수급 유입에 따른 밸류에이션 재평가 국면입니다.",
+        "drivers": [
+          {
+            "title": "실적 및 펀더멘털 모멘텀",
+            "description": "2026 Q3 공식 실적 기준 분기 매출 $28.05B(+-0.2%), EPS $0.48 (예상 상회(Beat)). 차기 실적 발표: 2027-01-28",
+            "type": "positive"
+          },
+          {
+            "title": "기술적 지표 및 지지선 점검",
+            "description": "현재가 $397.93 기준 52주 고점 대비 -20.23% 수준에서 주요 이평선 지지력 확인 중",
+            "type": "info"
+          },
+          {
+            "title": "월가 컨센서스 및 안전마진",
+            "description": "단기 변동성에도 불구하고 기업 본연의 독점적 해자와 현금 창출력이 주가 하방 경직성을 지지",
+            "type": "positive"
+          }
+        ],
+        "institutionalVerdict": "Tesla, Inc.의 핵심 기술적 해자와 중장기 성장 동력은 유효하며, 과도한 단기 변동성은 매력적인 분할 진입 기회를 제공합니다.",
+        "actionGuide": "단기 노이즈에 따른 감정적 매매를 지양하고, 펀더멘털 안전마진에 근거한 분할 매수 밴드를 준수하십시오.",
+        "relatedNews": [
+          {
+            "title": "Tesla Inc Stock (TSLA) Moved Up by 3.31% on Nov 2: Drivers Behind the Movement",
+            "source": "TradingKey",
+            "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZU5hR01Zdm1GMTlQNnlsZGFUQXpkbG1mQUc0U2hUbzlNY3oxUkVhblF5NlpQZDRGUlc0RzJRMnhmT0p4T1VNRzNrM2RVcXhlMzMwUlU2M3pDNVlqT3dKX3g4aml2WXAzYmxzU2FTWTVnRzZ4YWl1WDFmZ25oWTk5ZHlhRWVTU200MmJN?oc=5",
+            "pubDate": "Mon, 02 Nov 2026 16:15:32 GMT"
+          },
+          {
+            "title": "Tesla Stock Moves Higher: What's Going On? - Tesla (NASDAQ:TSLA)",
+            "source": "Benzinga",
+            "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQOXpzVENuQkVTR0RRNFNpdHJsX1FUWTZ6em04R3JwT0xaQ1kzV3V4QUp0QUVqb3M1cDlQZFYyemRORi1NVTl1WHd0U0tFUWFrRkxEdDQ1aVNBdjh0OUdsRG5va240TUtmdDRLb3NpMDJYdHlWQzZPRGE4Y1loeXpxdUFiZlljajl5dmpCeDBsRnd2SnJaNEVEUDJmSllNX0dVeGc?oc=5",
+            "pubDate": "Mon, 02 Nov 2026 19:11:56 GMT"
+          },
+          {
+            "title": "Tesla, Inc. $TSLA Stock Sold by Legacy Wealth Management LLC MS",
+            "source": "MarketBeat",
+            "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQnZQVHpJTVhaU2JEZ3dGSk5vY3Vzb2dUeUpOVUsySmFJS2U4ejFJMmFUQUlXdnh3V0hSYjU4WGp1WlZxWDJpYnJUSm1KcUJLUGFDWE91MnA5aDlBQlZ3eUFGZUJGNkJNNXl6X05kM09lQXFsUEFyVTAyVHBJdmFMcHMwRnBDa3M5aWRTSm14WllYUEZVM0IzZnhnamM5ZUxzS1R4QjdDbTZaQXJETFQ3N19FendqejV2SEc4MVNR?oc=5",
+            "pubDate": "Tue, 03 Nov 2026 11:31:50 GMT"
+          },
+          {
+            "title": "Tesla (TSLA) Laps the Stock Market: Here's Why",
+            "source": "Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZV9NN3F2djY2N3dVclhTNUVJYTYtYmYtWVdiTG9WSG5FaVh0UkhnZmpNcTdwdXJHWjU3MkFZSlh6bm9kTWNsQ1lUX25MNDZRVzh6dzFURTNMYkkzSC1iY0huSXZPbGtVZjRiamtHTWNYY2J2X2xqZm1kdHdwWmx4QlVMRzA0WFBmTHQxNi1Ta1laOWlwQ0xxdg?oc=5",
+            "pubDate": "Mon, 05 Oct 2026 07:00:00 GMT"
+          },
+          {
+            "title": "Tesla: SpaceX, Robots, And A Valuation That Defies Gravity",
+            "source": "Seeking Alpha",
+            "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNGtLdXcxSXV2SERIdWdnYnNGeXJVYWN6Z0RXVjJhdmk5LXZHX1VBY2RlaDJpNG9ieHRlbE50TWg3WlNzMmg4YV9tQ3huaUR1TUFLa3lqQkNpNUdFSjNhcjVtazVaYzYzT1hJSzRLcl9rSENFbVZhNW5CVEMxeURZUmQ0ZDF6OFg3QUxhZDJ2by1mUFE2b3BmMzZCeV8?oc=5",
+            "pubDate": "Wed, 21 Oct 2026 07:00:00 GMT"
+          }
+        ]
+      },
+      "recommendation": "buy"
+    },
+    "reports": {
+      "memo": "### 📊 Tesla, Inc. (TSLA) 2026 Q3 공식 실적 및 기관 퀀트 리서치 메모\n\n**기준 시세**: 현재가 **$397.93** (일간 -1.46%) | 52주 레인지: $297.38 ~ $498.83 (고점 대비 -20.23%)\n**공식 발표일**: 2026-09-30 (차기 실적 발표: 2027-01-28) | 시가총액: **$1572.91B**\n\n#### 1. 📊 2026 Q3 핵심 실적 팩트체크\n- **매출 성과**: 분기 매출 **$28.05B (+-0.2% YoY)**로 견고한 성장세를 증명했습니다.\n- **주당순이익(EPS)**: **$0.48** (월가 예상치 $0.45, 서프라이즈 **6.4%** 달성).\n- **영업이익률(OPM)**: **5.4%** 수준으로 업계 최상위권의 강력한 현금 창출 체력을 유지하고 있습니다.\n\n#### 2. 🚀 핵심 성장 엔진 & 사업 구조 (FSD v13+ End-to-End 자율주행, Cybercab 로보택시 및 옵티머스)\n- **성장 축**: 수십억 마일의 실제 주행 영상 데이터 플라이휠과 물리 세계 파운데이션 모델 기반 피지컬 AI 생태계 주도\n- **마진 레버리지**: 고정비 회수 구간 진입에 따라 외형 매출 성장이 영업이익의 기하급수적 성장으로 이어지는 레버리지 효과가 가속화되고 있습니다.\n\n#### 3. 📉 최근 시장 변동성 및 수급 진단\n- **기술적 지표**: RSI(14) **63.85** | MFI(14) **54.91** | SMA50 대비 **상회(강세)**\n- **수급 평가**: 단기 거시경제 및 옵션 만기 노이즈로 인한 일시적 조정은 중장기 기관 투자자에게 매력적인 진입 기회를 제공합니다.\n\n#### 4. 🎯 최종 투자 의견 & 전략적 매수 밴드\n- **투자의견**: **STRONG BUY (적극 분할 매수)**\n- **월가 컨센서스 목표주가**: **$413.1** (현재가 대비 **+3.8%** 상방 여력)\n- **1차 진입 밴드**: $389.97 ~ $405.89 (현재가 부근)\n- **2차 가치 매수 밴드**: $366.1 ~ $382.01 (핵심 이평선 지지선)",
+      "deep_dive": "### 🚀 FSD v13+ End-to-End 자율주행, Cybercab 로보택시 및 옵티머스 심층 기술 및 성장 분석\n\n#### 1. 💎 플랫폼 성장 가속화와 기업가치 리레이팅(Re-rating)\n- **엔터프라이즈 수요 독점**: 수십억 마일의 실제 주행 영상 데이터 플라이휠과 물리 세계 파운데이션 모델 기반 피지컬 AI 생태계 주도\n- **구조적 전환점**: 단순 하드웨어/서비스 공급을 넘어, 생태계 전반의 인프라 표준으로 확고히 자리잡으며 마진 스프레드를 확장 중입니다.\n\n#### 2. ⚡ 자본 지출(CapEx)의 질적 성격과 잉여현금흐름(FCF) 창출력\n- **단위 경제학(Unit Economics)**: 초기 대규모 선제적 투자가 감가상각 사이클을 거치면서, 서비스 제공 단위당 원가(Cost per Unit)를 획기적으로 낮추고 있습니다.\n- **현금흐름 가시성**: 자산의 가치가 소멸하는 속도보다 인프라를 통해 벌어들이는 현금 유입 속도가 훨씬 빠르게 전개되어 차기 회계연도 FCF의 폭발적 증가가 예상됩니다.\n\n#### 3. 🎯 기술적 해자와 결론\n- Tesla, Inc.은(는) 해당 산업 분야에서 완벽한 수직 계열화를 달성하여 타사가 모방할 수 없는 압도적 가격 결정력(Pricing Power)을 보유하고 있습니다.",
+      "ai_cloud": "### 🚀 FSD v13+ End-to-End 자율주행, Cybercab 로보택시 및 옵티머스 심층 기술 및 성장 분석\n\n#### 1. 💎 플랫폼 성장 가속화와 기업가치 리레이팅(Re-rating)\n- **엔터프라이즈 수요 독점**: 수십억 마일의 실제 주행 영상 데이터 플라이휠과 물리 세계 파운데이션 모델 기반 피지컬 AI 생태계 주도\n- **구조적 전환점**: 단순 하드웨어/서비스 공급을 넘어, 생태계 전반의 인프라 표준으로 확고히 자리잡으며 마진 스프레드를 확장 중입니다.\n\n#### 2. ⚡ 자본 지출(CapEx)의 질적 성격과 잉여현금흐름(FCF) 창출력\n- **단위 경제학(Unit Economics)**: 초기 대규모 선제적 투자가 감가상각 사이클을 거치면서, 서비스 제공 단위당 원가(Cost per Unit)를 획기적으로 낮추고 있습니다.\n- **현금흐름 가시성**: 자산의 가치가 소멸하는 속도보다 인프라를 통해 벌어들이는 현금 유입 속도가 훨씬 빠르게 전개되어 차기 회계연도 FCF의 폭발적 증가가 예상됩니다.\n\n#### 3. 🎯 기술적 해자와 결론\n- Tesla, Inc.은(는) 해당 산업 분야에서 완벽한 수직 계열화를 달성하여 타사가 모방할 수 없는 압도적 가격 결정력(Pricing Power)을 보유하고 있습니다.",
+      "moat": "### 🛡️ 수직 계열화된 메가팩(Megapack) 에너지 스토리지 및 테슬라 슈퍼차저 네트워크 및 리스크 정밀 진단\n\n#### 1. 🔍 경제적 해자의 건재함과 가격 결정력\n- **네트워크 효과와 전환 비용**: 글로벌 급속 충전 NACS 표준화와 고마진 에너지 저장장치(ESS) 부문의 분기별 실적 견인력\n- **시장 지배력**: 글로벌 고객사들의 높은 락인(Lock-in) 효과로 인해 거시경제 인플레이션 및 원가 상승 압력을 판매 단가에 전가할 수 있는 독보적 위치를 점하고 있습니다.\n\n#### 2. ⚖️ 핵심 리스크 요인 및 시간적 안전마진\n- **모니터링 리스크**: 글로벌 전기차(EV) 가격 경쟁 심화 및 각국 자율주행 로보택시 상용화 인허가 지연\n- **사법/구조적 현실성**: 시장에 제기되는 과도한 우려와 달리, 실질적인 펀더멘털 훼손까지는 상당한 시간적 법적 안전마진(Margin of Safety)이 확보되어 있습니다.\n\n#### 3. 🎯 리스크 평가 결론\n- 현재 주가에 반영된 규제/경쟁 디스카운트는 과도한 수준이며, 본업 펀더멘털이 건재한 한 이는 '가치 함정'이 아닌 '절호의 매수 기회'로 작용합니다.",
+      "regulatory": "### 🛡️ 수직 계열화된 메가팩(Megapack) 에너지 스토리지 및 테슬라 슈퍼차저 네트워크 및 리스크 정밀 진단\n\n#### 1. 🔍 경제적 해자의 건재함과 가격 결정력\n- **네트워크 효과와 전환 비용**: 글로벌 급속 충전 NACS 표준화와 고마진 에너지 저장장치(ESS) 부문의 분기별 실적 견인력\n- **시장 지배력**: 글로벌 고객사들의 높은 락인(Lock-in) 효과로 인해 거시경제 인플레이션 및 원가 상승 압력을 판매 단가에 전가할 수 있는 독보적 위치를 점하고 있습니다.\n\n#### 2. ⚖️ 핵심 리스크 요인 및 시간적 안전마진\n- **모니터링 리스크**: 글로벌 전기차(EV) 가격 경쟁 심화 및 각국 자율주행 로보택시 상용화 인허가 지연\n- **사법/구조적 현실성**: 시장에 제기되는 과도한 우려와 달리, 실질적인 펀더멘털 훼손까지는 상당한 시간적 법적 안전마진(Margin of Safety)이 확보되어 있습니다.\n\n#### 3. 🎯 리스크 평가 결론\n- 현재 주가에 반영된 규제/경쟁 디스카운트는 과도한 수준이며, 본업 펀더멘털이 건재한 한 이는 '가치 함정'이 아닌 '절호의 매수 기회'로 작용합니다.",
+      "valuation": "### 📊 Tesla, Inc. (TSLA) 밸류에이션 감사 및 역(Reverse) DCF 가치평가\n\n#### 1. 💎 피어 그룹 대비 압도적 밸류에이션 안전마진\n- **Trailing P/E**: **437.29x** | **Forward P/E**: **184.29x**\n- **월가 컨센서스 목표가**: **$413.1** (상방 여력 **+3.8%**)\n- **진단**: 견고한 이익 성장률(YoY +-43.6%) 대비 현재의 Forward P/E는 현저한 저평가 구간에 머물러 있습니다.\n\n#### 2. 🏰 자본 배분(Capital Allocation) 및 주주환원 레버리지\n- **주주환원**: 무차입 수준의 탄탄한 재무제표와 자율주행 소프트웨어 마진 전환에 따른 영업이익률 퀀텀점프 잠재력\n- **EPS 압축 효과**: 주가 조정 구간에서의 공격적 자사주 매입은 유통 주식 수를 빠르게 축소시켜 순이익 성장을 초과하는 주당순이익(EPS) 레버리지를 유발합니다.\n\n#### 3. 📈 역(Reverse) DCF 관점의 내재가치\n- 현재 주가($397.93)를 기준으로 역산할 때, 시장은 향후 5~10년간의 잉여현금흐름 성장을 극도로 보수적인 수치로 가정하고 있습니다.\n- 실적 컨센서스만큼만 완만히 성장하더라도, **최소 30~45% 이상의 펀더멘털 안전마진(Safety Margin)**을 내포하고 있습니다."
+    }
+  },
+  "aiMemo": {
+    "thesis": "📊 Tesla, Inc. (TSLA) 2026 Q3 공식 실적 및 기관 퀀트 리서치 메모\n\n**기준 시세**: 현재가 **$397.93** (일간 -1.46%) | 52주 레인지: $297.38 ~ $498.83 (고점 대비 -20.23%)\n**공식 발표일**: 2026-09-30 (차기 실적 발표: 2027-01-28) | 시가총액: **$1572.91B**\n\n 1. 📊 2026 Q3 핵심 실적 팩트체크\n- *...",
+    "model": "deterministic_quant_desk"
+  }
+}
