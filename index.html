@@ -35,5 +35,17 @@
   <body class="bg-[#f8fafc] dark:bg-[#09090b] text-slate-900 dark:text-zinc-100 min-h-screen">
     <div id="root"></div>
     <script type="module" src="/src/main.tsx"></script>
+
+    <!-- Brand-UI Floating Donation Widget -->
+    <script>
+      window.BrandUIConfig = {
+        appKey: 'tesla-on-tap',
+        concept: 'beer',
+        donationButtonPosition: 'bottom-right',
+        theme: 'auto',
+        lang: 'auto'
+      };
+    </script>
+    <script src="https://brand-ui.on-tap.xyz/widget.js" async></script>
   </body>
 </html>
